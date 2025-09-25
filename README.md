@@ -1,1 +1,1 @@
-# Porto-Kesy
+Ini adalah website portofolio pertama saya yang dibuat menggunakan HTML, CSS, dan JavaScript. Website ini juga berisi beberapa projek lain yang saya kembangkan selama semester 3, dengan keterampilan utama di Python, C#, dan JavaScript, serta didukung dengan soft skill seperti komunikasi, kerja sama tim, dan problem solving. Porto-Kesy
